@@ -30,7 +30,7 @@ Para executar o CVMatch no google colab você vai precisar:
 1. Possuir uma conta google e acessar o colab [aqui](https://colab.research.google.com/)
 2. Inserir o código exatamente como nesse [arquivo](https://github.com/Daiene-Fortunato/cvmatch/blob/main/colab.ipynb)
 3. Adicionar na pasta do ambiente o seu "curriculo.pdf"
-4. Adicionar na pasta do ambiente o arquivo "vagas.xlsx" com alterações (leia: VAGAS.md)
+4. Adicionar na pasta do ambiente o arquivo "vagas.xlsx" com alterações (leia: [VAGAS.md](https://github.com/Daiene-Fortunato/cvmatch/blob/main/VAGAS.md))
 5. Copiar e inserir no código o caminho dos seus arquivos
 6. Rodar cada seção em ordem (1,2,3,4) para visualizar a pontuação na tela
 
@@ -94,7 +94,7 @@ Para executar o CVMatch no google colab você vai precisar:
 
 - [ ] Construir a opção "Candidato" ou "Recrutador"
 - [ ] Excluir o arquivo vagas.xlsx e colocar opções de seleção dentro do ambiente
-- [ ] Para o candidato: inserir gráficos e outros recursos (WCloud) como saída da análise
+- [ ] Para o candidato: inserir gráficos e outros recursos como saída da análise
 - [ ] Para o recrutador: inserir outros recursos de saída além da pontuação
 - [ ] Colocar a saída da pontuação num formato: pts_obtidos | pts_max
 
