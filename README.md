@@ -1,4 +1,4 @@
-![Licensa MIT](https://img.shields.io/github/license/Daiene-Fortunato/Projeto_CVMatch)![GitHub repo size](https://img.shields.io/github/repo-size/Daiene-Fortunato/Projeto_CVMatch) ![GitHub top language](https://img.shields.io/github/languages/top/Daiene-Fortunato/Projeto_CVMatch)
+![Licensa MIT](https://img.shields.io/github/license/Daiene-Fortunato/cvmatch)![GitHub repo size](https://img.shields.io/github/repo-size/Daiene-Fortunato/cvmatch) ![GitHub top language](https://img.shields.io/github/languages/top/Daiene-Fortunato/cvmatch)
 
 # :page_facing_up: CVMatch :page_facing_up: - Seja bem-vindo(a)!
 
@@ -114,7 +114,7 @@ Contribuiu com:
 
 
 
-:woman_student: [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/) - Gestora de TI e Dev Backend
+:woman_student: [**Daiene Fortunato**](https://www.linkedin.com/in/daienefortunato/) - Analista de dados e Desenvolvedora de Sistemas
 
 :email:  daiene.fortunato@gmail.com
 
